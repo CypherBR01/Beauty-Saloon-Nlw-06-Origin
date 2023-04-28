@@ -2,7 +2,7 @@
 By Rocketseat 
 <img src="https://github.com/rocketseat-education/nlw-06-origin/raw/main/.github/preview.png">
 <h1>☄Technologies</h1>
-<p>This project was desinvolved with the following</p>
+<p>This project was desenvolved with the langages</p>
 <li>Html</li>  
 <li>Css</li>
 <li>Java Script</li>
